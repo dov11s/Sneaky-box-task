@@ -1,0 +1,54 @@
+#pageDropDown {
+  visibility: hidden !important;
+}
+
+#centered {
+  text-align: center;
+}
+
+.react-bootstrap-table-pagination {
+  margin: auto;
+  width: 80% !important;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.navbar-brand {
+  padding: 10px;
+}
+
+.table {
+  margin: auto;
+  width: 80% !important;
+}
+.nav-link {
+  font-size: 22px;
+  color: #27fd0d !important;
+  padding: 10px !important;
+}
+
+.modal-body {
+  justify-content: space-around;
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+html,
+body,
+#root,
+.app,
+#app > div {
+  height: 100% !important;
+}
+
+#root {
+  height: 100% !important;
+}
+
+.tarpas {
+  margin-top: 10px;
+}
